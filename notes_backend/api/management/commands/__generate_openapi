@@ -1,0 +1,4 @@
+# This file is a marker that generate_openapi should be run.
+# Run this after migration to update interfaces/openapi.json:
+# python manage.py generate_openapi
+# (No code to run, just a marker for post-processing)

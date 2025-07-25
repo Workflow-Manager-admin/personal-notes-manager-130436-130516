@@ -1,0 +1,4 @@
+# This file is a marker that migrations should be applied. 
+# The actual operation is performed outside of the codebase using:
+# python manage.py migrate
+# (No code to run, just a marker for post-processing)
